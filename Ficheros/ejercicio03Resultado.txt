@@ -1,11 +1,11 @@
 Resultado del ejercicio 03 de colecciones:
 ================================================================================
-las mujeres mayores de edad son:46 
-los hombres menores de edad son:9 
-el hombre con menor edad es:3 
-la mujer con menor edad es:5 
+las mujeres mayores de edad son:39 
+los hombres menores de edad son:10 
+el hombre con menor edad es:0 
+la mujer con menor edad es:2 
 el hombre con mayor edad es:115 
-la mujer con mayor edad es:113 
-El promedio de edad de las mujeres es:56.96
- y de los hombres:55.17
+la mujer con mayor edad es:115 
+El promedio de edad de las mujeres es:57.62
+ y de los hombres:52.46
 ================================================================================
