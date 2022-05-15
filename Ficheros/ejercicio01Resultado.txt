@@ -1,0 +1,6 @@
+Resultado del ejercicio 01 de colecciones:
+================================================================================
+El porcentaje de hombres es:56%
+El porcentaje de mujeres es:44%
+hay mas hombres que mujeres
+================================================================================
