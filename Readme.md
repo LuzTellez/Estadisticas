@@ -15,3 +15,7 @@ env\Scripts\activate
 pip install -r requirements.txt
 ```
 
+#### More information
+
+[Create and manage projects in Python](https://docs.microsoft.com/en-us/learn/modules/python-create-manage-projects/)
+
