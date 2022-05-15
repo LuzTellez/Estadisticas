@@ -1,14 +1,14 @@
 Resultado del ejercicio 04 de colecciones:
 ================================================================================
-La ciudad con promedio anual de temperatura mas alta es:Lisboa 31.33 ºC
-La ciudad con promedio anual de temperatura mas baja es:Copenhague 10.00 ºC
+La ciudad con promedio anual de temperatura mas alta es:Reikiavik 25.08 ºC
+La ciudad con promedio anual de temperatura mas baja es:Madrid 12.17 ºC
 
 La temperatura por ciudadess es el siguiente:
-	Lisboa      31.33 ºC		Roma        23.83 ºC		Paris       23.42 ºC
-	Bratislava  23.00 ºC		Berna       23.00 ºC		Berlín      22.67 ºC
-	Bruselas    21.00 ºC		Nicosia     20.00 ºC		Viena       19.33 ºC
-	Reikiavik   19.33 ºC		Varsovia    17.58 ºC		Sofia       17.00 ºC
-	Londres     16.92 ºC		Atenas      16.92 ºC		Madrid      16.50 ºC
-	Oslo        14.75 ºC		Bucarest    14.75 ºC		Budapest    14.25 ºC
-	Dublin      12.75 ºC		Copenhague  10.00 ºC	
+	Reikiavik   25.08 ºC		Nicosia     24.83 ºC		Varsovia    24.33 ºC
+	Sofia       23.75 ºC		Copenhague  21.33 ºC		Viena       21.25 ºC
+	Berna       20.33 ºC		Oslo        19.75 ºC		Dublin      19.17 ºC
+	Bratislava  19.08 ºC		Paris       19.08 ºC		Londres     18.92 ºC
+	Lisboa      18.67 ºC		Roma        18.42 ºC		Budapest    16.58 ºC
+	Bucarest    15.25 ºC		Atenas      14.75 ºC		Bruselas    14.08 ºC
+	Berlín      12.33 ºC		Madrid      12.17 ºC	
 ================================================================================
