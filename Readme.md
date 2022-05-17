@@ -2,7 +2,7 @@
 
 #### Create virtual enviroment
 ```
-py -m env env
+py -m venv env
 ```
 
 #### Activate virtual enviroment
