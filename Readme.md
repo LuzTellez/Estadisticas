@@ -15,7 +15,7 @@ env\Scripts\activate
 pip install -r requirements.txt
 ```
 
-#### Deactivating virutal enviroment
+#### Deactivating virtual enviroment
 ```
 env\Scripts\deactivate.bat
 ```
